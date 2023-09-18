@@ -1,0 +1,17 @@
+body {
+    width: 98vw;
+    height: 98vh;
+    background-color: #edf4ff;
+}
+
+footer a {
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.full-page {
+    height: 98vh;
+}
